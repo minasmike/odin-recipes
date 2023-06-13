@@ -1,1 +1,2 @@
 # odin-recipes
+this is a web project that shows the recipes of diffrent traditional Ethiopian foods.  the landing page have three chooses to take to thier respective recipes where you will find a picture of the food  some descriptions, ingriedents needed and steps to be followed in order to prepare the food.
